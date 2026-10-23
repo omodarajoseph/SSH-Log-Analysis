@@ -1,2 +1,2 @@
 # SSH-Log-Analysis
-Analysis of SSH authentication logs to detect brute-force attacks, track unauthorized access attempts, and identify security anomalies using log analysis techniques
+Splunk SPL-based threat hunting project investigating SSH authentication logs (auth.log) to detect brute-force attacks, track targeted accounts, and identify potential account compromise.
